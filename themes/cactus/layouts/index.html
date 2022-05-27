@@ -27,7 +27,6 @@
             <i class="fab fa-{{ lower $elem.name }}" aria-hidden="true"></i>
         </a>
         {{ end }}
-
         {{ if (lt (add $index 1) $length) }}
             {{- print " and " -}}
         {{ end }}
