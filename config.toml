@@ -1,0 +1,12 @@
+baseURL = 'https://stevenxpan.github.io/'
+languageCode = 'en-us'
+title = 'Steven Pan'
+theme = 'cactus'
+
+[[params.social]]
+  name = 'github'
+  link = 'https://github.com/stevenxpan'
+
+[[params.social]]
+  name = 'linkedin'
+  link = 'https://www.linkedin.com/in/stevenxpan/'
